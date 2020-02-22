@@ -31,3 +31,11 @@
 **Thoughts:** Remember review bug in the sound. The sounds are played at the same time
 
 **Link(s) to work:** https://github.com/davidcasr/fundamentals-js/tree/master/game
+
+### Day 5: February 22/2020
+
+**Today's Progress:** I reviewed more Javascript basics: Variables, functions and objects. I updated my resume information and its main color.
+
+**Thoughts:** Search for a new javascript project
+
+**Link(s) to work:** https://github.com/davidcasr/fundamentals-js/tree/master/game
