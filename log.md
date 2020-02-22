@@ -15,3 +15,19 @@
 **Thoughts:** I must to put more functionalities the project and i to get better the interface
 
 **Link(s) to work:** https://github.com/davidcasr/fundamentals-js/tree/master/game
+
+### Day 3: February 20/2020
+
+**Today's Progress:** Basic functionality of the game of pianist
+
+**Thoughts:** The new interface is cool
+
+**Link(s) to work:** https://github.com/davidcasr/fundamentals-js/tree/master/game
+
+### Day 4: February 21/2020
+
+**Today's Progress:** Add sound and points system. Remember review bug in the sound
+
+**Thoughts:** Remember review bug in the sound. The sounds are played at the same time
+
+**Link(s) to work:** https://github.com/davidcasr/fundamentals-js/tree/master/game
