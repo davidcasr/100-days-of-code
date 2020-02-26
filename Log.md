@@ -39,3 +39,11 @@
 **Thoughts:** Search for a new javascript project
 
 **Link(s) to work:** https://github.com/davidcasr/fundamentals-js/tree/master/game
+
+### Day 6: February 25/2020
+
+**Today's Progress:** JavaScript Fundamentals Course Completed
+
+**Thoughts:** Search for a new javascript project or Vue.js
+
+**Link(s) to work:** --
