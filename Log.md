@@ -47,3 +47,11 @@
 **Thoughts:** Search for a new javascript project or Vue.js
 
 **Link(s) to work:** --
+
+### Day 7: February 26/2020
+
+**Today's Progress:** I started Basic Course of Vue.js
+
+**Thoughts:** --
+
+**Link(s) to work:** https://github.com/davidcasr/vuejs/tree/master/bitcoin-price
