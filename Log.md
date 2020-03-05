@@ -55,3 +55,19 @@
 **Thoughts:** --
 
 **Link(s) to work:** https://github.com/davidcasr/vuejs/tree/master/bitcoin-price
+
+### Day 7: February 26/2020
+
+**Today's Progress:** I started Basic Course of Vue.js
+
+**Thoughts:** --
+
+**Link(s) to work:** https://github.com/davidcasr/vuejs/tree/master/bitcoin-price
+
+### Day 8-11: February 28/2020 - March 2,3,4/2020
+
+**Today's Progress:** I was worked in the project of Vue.js platzi-exchange during this days. I learned the basic concepts of framework and more details
+
+**Thoughts:** I will working about of project for update the view and other functionalities 
+
+**Link(s) to work:** https://github.com/davidcasr/vuejs/tree/master/platzi-exchange
