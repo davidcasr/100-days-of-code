@@ -71,3 +71,11 @@
 **Thoughts:** I will working about of project for update the view and other functionalities 
 
 **Link(s) to work:** https://github.com/davidcasr/vuejs/tree/master/platzi-exchange
+
+### Day 12-22: March / 2020
+
+**Today's Progress:** This progress was of several days in March. I worked in the basic frontend, authentication, configuration the language (Spanish and English), models, views, controllers, dashboard, pagination, charts and more. I made this app in Laravel.
+
+**Thoughts:** My goal is to do a MVP of a product for manage communities
+
+**Link(s) to work:** -
