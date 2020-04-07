@@ -79,3 +79,11 @@
 **Thoughts:** My goal is to do a MVP of a product for manage communities
 
 **Link(s) to work:** -
+
+### Day 23-26: March / 2020
+
+**Today's Progress:** In this days I worked in the empty state of the app and I finished the last details of functionality and some graphics details of app
+
+**Thoughts:** I hope in next days that my first client testing of app
+
+**Link(s) to work:** -
