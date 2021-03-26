@@ -7,3 +7,7 @@
 ### Día 2: Marzo 25/2021
 - Progreso del día: Introducción a web scraping, ejercicio básico con Requests & BeautifulSoup
 - Notas: Ninguna
+
+### Día 3: Marzo 26/2021
+- Progreso del día: Introducción a web scraping, configuración de Selenium en Docker
+- Notas: Terminar de hacer pruebas de Docker y Selenium
