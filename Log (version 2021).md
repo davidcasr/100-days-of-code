@@ -11,3 +11,7 @@
 ### Día 3: Marzo 26/2021
 - Progreso del día: Introducción a web scraping, configuración de Selenium en Docker
 - Notas: Terminar de hacer pruebas de Docker y Selenium
+
+### Día 4: Marzo 27/2021
+- Progreso del día: Realicé un ejemplo básico usando Selenium después de configurar y probar el ambiente de Docker
+- Notas: Profundizar más en Selenium y su uso
