@@ -15,3 +15,7 @@
 ### Día 4: Marzo 27/2021
 - Progreso del día: Realicé un ejemplo básico usando Selenium después de configurar y probar el ambiente de Docker
 - Notas: Profundizar más en Selenium y su uso
+
+### Día 5: Marzo 29/2021
+- Progreso del día: Web scraping con Xpath. Scraper al diario la republica
+- Notas: Revisar expresiones escritas con Xpath, ya que al probar en navegador y en Python las mismas expresiones los resultados son distintos.
