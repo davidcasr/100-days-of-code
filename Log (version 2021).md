@@ -19,3 +19,7 @@
 ### Día 5: Marzo 29/2021
 - Progreso del día: Web scraping con Xpath. Scraper al diario la republica
 - Notas: Revisar expresiones escritas con Xpath, ya que al probar en navegador y en Python las mismas expresiones los resultados son distintos.
+
+### Día 6: Marzo 30/2021
+- Progreso del día: Exploré y sue la API de Twitter mediante la librería Tweepymy usé la libreriía dotenv para el manejo de variables de entorno en Python
+- Notas: Pendiente hacer el tutorial de lo trabajo en el día
