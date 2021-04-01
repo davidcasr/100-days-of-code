@@ -21,5 +21,9 @@
 - Notas: Revisar expresiones escritas con Xpath, ya que al probar en navegador y en Python las mismas expresiones los resultados son distintos.
 
 ### Día 6: Marzo 30/2021
-- Progreso del día: Exploré y sue la API de Twitter mediante la librería Tweepymy usé la libreriía dotenv para el manejo de variables de entorno en Python
+- Progreso del día: Exploré y probé la API de Twitter mediante la librería Tweepymy usé la libreriía dotenv para el manejo de variables de entorno en Python
 - Notas: Pendiente hacer el tutorial de lo trabajo en el día
+
+### Día 7: Marzo 31/2021
+- Progreso del día: Seguí explorando la API de Twitter y su uso mediante algunos ejemplos
+- Notas: 
