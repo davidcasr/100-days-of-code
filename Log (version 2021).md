@@ -26,4 +26,12 @@
 
 ### Día 7: Marzo 31/2021
 - Progreso del día: Seguí explorando la API de Twitter y su uso mediante algunos ejemplos
-- Notas: 
+- Notas: Ninguna
+
+### Día 8: Abril 6/2021
+- Progreso del día: Repaso de conpcetos básicos de MongoDB
+- Notas: Ninguna
+
+### Día 9: Marzo 31/2021
+- Progreso del día: Seguí explorando conpcetos de MongoDB
+- Notas: Pendiente práctica de Python y MongoDB
