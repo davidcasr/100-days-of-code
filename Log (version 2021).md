@@ -32,6 +32,6 @@
 - Progreso del día: Repaso de conpcetos básicos de MongoDB
 - Notas: Ninguna
 
-### Día 9: Marzo 31/2021
+### Día 9: Abril 7/2021
 - Progreso del día: Seguí explorando conpcetos de MongoDB
 - Notas: Pendiente práctica de Python y MongoDB
