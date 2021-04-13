@@ -35,3 +35,7 @@
 ### Día 9: Abril 7/2021
 - Progreso del día: Seguí explorando conpcetos de MongoDB
 - Notas: Pendiente práctica de Python y MongoDB
+
+### Día 10: Abril 12/2021
+- Progreso del día: Inserciones y consultas en MongoDB, use la consola y Python
+- Notas: Pendiente actualizar y eliminar datos
