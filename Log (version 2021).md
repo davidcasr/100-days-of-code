@@ -39,3 +39,7 @@
 ### Día 10: Abril 12/2021
 - Progreso del día: Inserciones y consultas en MongoDB, use la consola y Python
 - Notas: Pendiente actualizar y eliminar datos
+
+### Día 11: Abril 13/2021
+- Progreso del día: Actualizar y eliminar datos en MongoDB desde consola y desde Python. Terminé post de introducción a MongoDB en Medium.
+- Notas: Ninguna
