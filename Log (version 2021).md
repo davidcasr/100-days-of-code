@@ -47,3 +47,7 @@
 ### Día 12: Abril 14/2021
 - Progreso del día: Manipulación y Análisis de Datos con Pandas y Python (Introducción a Pandas, Dataframe, manejo de archivos, preprocesamiento de información y funciones matemáticas)
 - Notas: Ninguna
+
+### Día 13: Abril 15/2021
+- Progreso del día: Manipulación y Análisis de Datos con Pandas y Python (Multiples indices, merge, groupby y aggreation)
+- Notas: Ninguna
