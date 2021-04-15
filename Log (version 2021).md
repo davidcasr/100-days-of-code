@@ -43,3 +43,7 @@
 ### Día 11: Abril 13/2021
 - Progreso del día: Actualizar y eliminar datos en MongoDB desde consola y desde Python. Terminé post de introducción a MongoDB en Medium.
 - Notas: Ninguna
+
+### Día 12: Abril 14/2021
+- Progreso del día: Manipulación y Análisis de Datos con Pandas y Python (Introducción a Pandas, Dataframe, manejo de archivos, preprocesamiento de información y funciones matemáticas)
+- Notas: Ninguna
