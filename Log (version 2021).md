@@ -51,3 +51,7 @@
 ### Día 13: Abril 15/2021
 - Progreso del día: Manipulación y Análisis de Datos con Pandas y Python (Multiples indices, merge, groupby y aggreation)
 - Notas: Ninguna
+
+### Día 14: Abril 19/2021
+- Progreso del día: Manipulación y Análisis de Datos con Pandas y Python (GroupBy y Aggregation, Series de tiempo, Introducción a la visualización de datos, Manejo de datos)
+- Notas: Ninguna
