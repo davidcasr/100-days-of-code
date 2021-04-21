@@ -55,3 +55,7 @@
 ### Día 14: Abril 19/2021
 - Progreso del día: Manipulación y Análisis de Datos con Pandas y Python (GroupBy y Aggregation, Series de tiempo, Introducción a la visualización de datos, Manejo de datos)
 - Notas: Ninguna
+
+### Día 15: Abril 20/2021
+- Progreso del día: Manipulación y Análisis de Datos con Pandas y Python (Visualización de datos con Pandas y matplotlib)
+- Notas: Ninguna
