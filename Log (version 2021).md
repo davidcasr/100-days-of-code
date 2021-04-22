@@ -59,3 +59,7 @@
 ### Día 15: Abril 20/2021
 - Progreso del día: Manipulación y Análisis de Datos con Pandas y Python (Visualización de datos con Pandas y matplotlib)
 - Notas: Ninguna
+
+### Día 16: Abril 21/2021
+- Progreso del día: Introduccuón a Machine Learning, repaso a numpy y pandas. Inicio con ScikitLearn
+- Notas: Ninguna
