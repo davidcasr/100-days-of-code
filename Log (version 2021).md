@@ -63,3 +63,7 @@
 ### Día 16: Abril 21/2021
 - Progreso del día: Introduccuón a Machine Learning, repaso a numpy y pandas. Inicio con ScikitLearn
 - Notas: Ninguna
+
+### Día 17: Abril 22/2021
+- Progreso del día: ScikitLearn | Regresion lineal | Regresion logistica | Árboles de decisión
+- Notas: Ninguna
