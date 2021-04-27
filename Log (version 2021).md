@@ -67,3 +67,8 @@
 ### Día 17: Abril 22/2021
 - Progreso del día: ScikitLearn | Regresion lineal | Regresion logistica | Árboles de decisión
 - Notas: Ninguna
+
+### Día 18: Abril 26/2021
+- Progreso del día: Librerías de Python algorithms and missingno
+- Notas: Ninguna
+
