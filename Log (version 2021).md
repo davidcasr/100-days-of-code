@@ -72,3 +72,7 @@
 - Progreso del día: Librerías de Python algorithms and missingno
 - Notas: Ninguna
 
+### Día 19: Abril 27/2021
+- Progreso del día: Flutter, Hola mundo e introducción a Widgets más usados
+- Notas: Ninguna
+
