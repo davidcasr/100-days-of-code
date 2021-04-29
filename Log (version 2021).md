@@ -76,3 +76,7 @@
 - Progreso del día: Flutter, Hola mundo e introducción a Widgets más usados
 - Notas: Ninguna
 
+### Día 20: Abril 28/2021
+- Progreso del día: Flutter, Widgets sin estado
+- Notas: Ninguna
+
