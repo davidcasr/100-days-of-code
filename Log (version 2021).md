@@ -80,6 +80,6 @@
 - Progreso del día: Flutter, Widgets sin estado
 - Notas: Ninguna
 
-### Día 21: Abril 28/2021
+### Día 21: Mayo 04/2021
 - Progreso del día: Flutter, Widgets con estado
 - Notas: Ninguna
