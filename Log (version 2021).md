@@ -83,3 +83,7 @@
 ### Día 21: Mayo 04/2021
 - Progreso del día: Flutter, Widgets con estado
 - Notas: Ninguna
+
+## Día 22: Mayo 06/2021
+- Progreso del día: Arquitectura BLoC & Clean Architecture en Flutter
+- Notas: Ninguna
