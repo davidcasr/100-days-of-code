@@ -87,3 +87,7 @@
 ## Día 22: Mayo 06/2021
 - Progreso del día: Arquitectura BLoC & Clean Architecture en Flutter
 - Notas: Ninguna
+
+## Día 23: Mayo 13/2021
+- Progreso del día: Iniciando nuevo proyecto Flutter
+- Notas: Seguir trabjando en el diseño de la app
